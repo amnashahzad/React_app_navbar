@@ -1,0 +1,58 @@
+.nav {
+    display: flex;
+    margin: 0 auto;
+    /* width: 100%; */
+    height: auto;
+    /* display: inline-block; */
+    margin-left: 25%;
+}
+
+.nav li {
+    position: relative;
+    margin: 0 20px 0 0;
+    /* float: left; */
+    display: inline-block;
+}
+
+.nav li a{
+    padding: 20px;
+    display: inline-block;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+.nav .orange:hover {
+    /* opacity: 0.10; */
+    color: orange;
+  }
+
+  .image{
+    margin-left: 43%;
+    /* margin-top: 3%; */
+    width:15%;
+  }
+
+  .button{
+    color: #ffffff;
+    background-color: orange;
+    text-decoration: none;
+    border: 2px solid transparent;
+    width: 150px;
+    height: 50px;
+    border-radius: 10px;
+}
+
+button a {
+   
+        color: #ffffff;
+        background-color: orange;
+        text-decoration: none;
+        border: 2px solid transparent;
+        width: 150px;
+        height: 50px;
+        border-radius: 10px;
+}
+
+/* .card-heading{
+  color: rgb(102, 102, 255);
+} */
